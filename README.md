@@ -8,8 +8,8 @@ Portfolio to showcase me and my skills - while also trying to work with Astro
 
          Stuck? Join us at https://astro.build/chat
 
-> > > > > > > 182992d1375cb42892279cdf017201ec0956980e
-
-```sh
-npm create astro@latest -- --template basics
+```
+╭─────╮  Houston:
+│ ◠ ◡ ◠  Good luck out there, astronaut! 🚀
+╰─────╯
 ```
